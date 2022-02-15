@@ -1,3 +1,8 @@
+# DL-DIY potential project ideas
+- take into consideration information of different sensors during training
+- try out different architectures and model distillation
+
+-----------------
 ## Separable convolutions and test-time augmentations for low-complexity and calibrated acoustic scene classification (DCASE21 Challenge)
 
 [**SEPARABLE CONVOLUTIONS AND TEST-TIME AUGMENTATIONS FOR LOW-COMPLEXITY AND CALIBRATED ACOUSTIC SCENE CLASSIFICATION**]() 
