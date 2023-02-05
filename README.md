@@ -1,3 +1,6 @@
+
+:warning: **WARNING!**:warning: The dataset for this project is quite big and difficult to set up with Google Colab. It's more feasible if you have local computational resource or look into other recent audio datasets.
+
 # DL-DIY potential project ideas
 - check out challenge description [[here](http://dcase.community/challenge2021/task-acoustic-scene-classification#subtask-a)]
 - take into consideration information of different sensors during training, e.g. [[residual normalization](https://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Kim_36_t1.pdf)]
